@@ -17,6 +17,16 @@ With ExploreX, you can:
 - ✅ **Enjoy robust validation** and a polished, interactive UI for a smooth experience.
 - 💡 **Get instant feedback** with flash messages for all your actions.
 
+- ```mermaid
+graph TD
+    A(Browse 🗺️) --> B(Add ➕)
+    B --> C(Edit/Delete ✏️)
+    C --> D(Upload Images 📸)
+    D --> E(Review 📝)
+    E --> F(Validation ✅)
+    F --> G(Feedback 💡)
+```
+
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
