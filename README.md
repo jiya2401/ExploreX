@@ -1,11 +1,11 @@
-## 🌍 WanderlusT-ExploreX
+## 🌍 ExploreX-WanderlusT
 
-**WanderlusT is a travel listing platform where you can browse and manage travel destination listings. Built with Node.js, Express, Mongoose, and EJS, the application provides CRUD operations for listings and reviews, robust validation, and an interactive web experience.**
+**ExploreX is a travel listing platform where you can browse and manage travel destination listings. Built with Node.js, Express, Mongoose, and EJS, the application provides CRUD operations for listings and reviews, robust validation, and an interactive web experience.**
 
 ## 🌐 [Live Demo](https://explorex-tvev.onrender.com)  
 **Note:** After clicking "Demo Live," please click "ExploreX" to continue.
 
-## ✨ Why WanderlusT?
+## ✨ Why ExploreX?
 
 Dream, discover, and plan your next journey—all in one place!  
 With ExploreX, you can:
