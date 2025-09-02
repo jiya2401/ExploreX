@@ -29,9 +29,6 @@ With ExploreX, you can:
   <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1666702541/brand/Cloudinary_Logo_Blue.svg" width="90" title="Cloudinary"/>
 </p>
 
-![ExploreX Screenshot](https://github.com/jiya2401/ExploreX/blob/main/Screenshot%202025-09-02%20204653.png?raw=true)
-
-
 
 <p align="center">
   <b>Node.js</b> &nbsp; | &nbsp;
@@ -41,6 +38,8 @@ With ExploreX, you can:
   <b>EJS</b> &nbsp; | &nbsp;
   <b>Cloudinary</b>
 </p>
+
+![ExploreX Screenshot](https://github.com/jiya2401/ExploreX/blob/main/Screenshot%202025-09-02%20204653.png?raw=true)
 
 **Key Packages:**  
 `Joi` • `express-session` • `connect-flash` • `method-override` • `cookie-parser`
